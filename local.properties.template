@@ -1,0 +1,6 @@
+# Persian City Game -.Settings Template
+# Copy this file to "local.properties" and set your Android SDK path
+# Example (Windows): sdk.dir=C\:\\Users\\YourName\\AppData\\Local\\Android\\Sdk
+# Example (Mac):      sdk.dir=/Users/YourName/Library/Android/sdk
+# Example (Linux):    sdk.dir=/home/YourName/Android/Sdk
+sdk.dir=/path/to/Android/Sdk

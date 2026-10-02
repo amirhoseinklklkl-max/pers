@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="hud_text_size">16sp</dimen>
+    <dimen name="hud_title_size">20sp</dimen>
+    <dimen name="dialog_title_size">24sp</dimen>
+    <dimen name="dialog_body_size">18sp</dimen>
+    <dimen name="button_text_size">16sp</dimen>
+    <dimen name="joystick_radius">80dp</dimen>
+</resources>

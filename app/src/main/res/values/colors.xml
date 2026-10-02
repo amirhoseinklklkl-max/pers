@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grass">#FF6FBF5C</color>
+    <color name="road">#FF6E6E6E</color>
+    <color name="sidewalk">#FFD4D4D4</color>
+    <color name="building_red">#FFD9534F</color>
+    <color name="building_blue">#FF4F81BD</color>
+    <color name="building_yellow">#FFF2C249</color>
+    <color name="building_green">#FF6DBE6D</color>
+    <color name="building_purple">#FF9B6FBE</color>
+    <color name="building_orange">#FFEF8B3D</color>
+    <color name="sky_day">#FF87CEEB</color>
+    <color name="sky_evening">#FFFF9F5C</color>
+    <color name="sky_night">#FF1A2A4A</color>
+    <color name="ui_overlay">#CC000000</color>
+    <color name="hud_bg">#AA1B5E20</color>
+    <color name="button_primary">#FF4CAF50</color>
+    <color name="button_secondary">#FF2196F3</color>
+    <color name="button_danger">#FFF44336</color>
+    <color name="money_color">#FFFFD54F</color>
+</resources>
